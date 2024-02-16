@@ -19,6 +19,7 @@ public class MainSTK
 		fixed_stk.push(3);
 		fixed_stk.push(4);
 		fixed_stk.displayStack();
+		System.out.println();
 		fixed_stk.pop();
 		fixed_stk.displayStack();
 		
